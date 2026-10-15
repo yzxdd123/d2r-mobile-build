@@ -2,6 +2,10 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
+> **用户备忘（置顶）**  
+> 小红书社区安装流程已存档：[`docs/xiaohongshu-install-notes.md`](docs/xiaohongshu-install-notes.md)（全能签 / Resources 分卷 / 首次等 5–7 分钟）。  
+> 正式用法仍以本文下方「iOS 下载和使用」为准；资源请自备正版。
+
 在 GitHub Actions 中从 [d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) 源码构建 iOS 和 macOS 应用。默认选择上游最新正式 Release，发布到自己的私有仓库。
 
 ## 配置和构建

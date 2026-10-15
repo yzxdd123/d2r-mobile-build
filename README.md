@@ -2,6 +2,10 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
+> **Owner note**  
+> Archived Xiaohongshu community install steps (Chinese): [`docs/xiaohongshu-install-notes.md`](docs/xiaohongshu-install-notes.md).  
+> Prefer the official “Download and use on iOS” section below for accurate paths and signing tools. Bring your own legitimate game data.
+
 Build iOS and macOS apps from [d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) source with GitHub Actions. Each run defaults to the latest official upstream Release and publishes to your private repository.
 
 ## Configure and build
